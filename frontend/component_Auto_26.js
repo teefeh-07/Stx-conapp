@@ -15,3 +15,6 @@ export const func3 = () => {
   console.log("Action 3");
 };
 // Documentation for func3
+export const func4 = () => {
+  console.log("Action 4");
+};
