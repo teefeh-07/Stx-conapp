@@ -11,3 +11,6 @@ export const func2 = () => {
   console.log("Action 2");
 };
 // Documentation for func2
+export const func3 = () => {
+  console.log("Action 3");
+};
