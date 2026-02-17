@@ -8,3 +8,5 @@ export const broadcast = async (txOptions) => {
   const transaction = await makeContractCall(txOptions);
   return broadcastTransaction(transaction, network);
 };
+
+// TODO: Add error handling for broadcast
