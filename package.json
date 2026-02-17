@@ -11,3 +11,4 @@
   "dependencies": {
     "@stacks/connect": "^7.0.0",
     "@stacks/transactions": "^6.0.0",
+    "@hirosystems/chainhooks-client": "^1.0.0",
