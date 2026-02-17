@@ -6,3 +6,5 @@ const network = new StacksMocknet();
 
 export const broadcast = async (txOptions) => {
   const transaction = await makeContractCall(txOptions);
+  return broadcastTransaction(transaction, network);
+};
