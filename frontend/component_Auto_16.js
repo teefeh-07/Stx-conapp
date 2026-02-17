@@ -18,3 +18,4 @@ export const func3 = () => {
 export const func4 = () => {
   console.log("Action 4");
 };
+// Documentation for func4
