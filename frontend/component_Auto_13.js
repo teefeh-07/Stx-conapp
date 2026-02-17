@@ -23,3 +23,6 @@ export const func5 = () => {
   console.log("Action 5");
 };
 // Documentation for func5
+export const func6 = () => {
+  console.log("Action 6");
+};
