@@ -14,3 +14,4 @@ export const func2 = () => {
 export const func3 = () => {
   console.log("Action 3");
 };
+// Documentation for func3
