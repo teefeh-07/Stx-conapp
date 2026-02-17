@@ -10,3 +10,4 @@ export const func1 = () => {
 export const func2 = () => {
   console.log("Action 2");
 };
+// Documentation for func2
