@@ -1,3 +1,5 @@
 [project]
 name = "Stx-conapp"
 requirements = []
+[contracts.escrow]
+path = "contracts/escrow.clar"
