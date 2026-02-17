@@ -3,3 +3,5 @@ name = "Stx-conapp"
 requirements = []
 [contracts.escrow]
 path = "contracts/escrow.clar"
+clarity_version = 4
+epoch = "3.3"
