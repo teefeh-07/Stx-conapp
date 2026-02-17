@@ -8,10 +8,3 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@stacks/connect": "^7.0.0",
-    "@stacks/transactions": "^6.0.0",
-    "@hirosystems/chainhooks-client": "^1.0.0",
-    "@walletconnect/web3-provider": "^1.8.0"
-  }
-}
