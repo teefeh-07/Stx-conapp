@@ -6,3 +6,4 @@ export const func0 = () => {
 export const func1 = () => {
   console.log("Action 1");
 };
+// Documentation for func1
